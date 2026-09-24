@@ -1,0 +1,171 @@
+{
+  "" : {
+    "const-values" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/xDrip Watch App-primary.swiftconstvalues",
+    "dependencies" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/xDrip Watch App-primary.d",
+    "diagnostics" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/xDrip Watch App-primary.dia",
+    "emit-module-dependencies" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/xDrip Watch App-primary-emit-module.d",
+    "emit-module-diagnostics" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/xDrip Watch App-primary-emit-module.dia",
+    "pch" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/xDrip Watch App-primary-Bridging-header.pch",
+    "swift-dependencies" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/xDrip Watch App-primary.swiftdeps"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Constants/ConstantsAppleWatch.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsAppleWatch.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsAppleWatch.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/DataModels/NotificationController.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/NotificationController.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/NotificationController.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/DataModels/WatchStateModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/WatchStateModel.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/WatchStateModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Texts/TextsWatchApp.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsWatchApp.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsWatchApp.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Views/BigNumberView/BigNumberView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/BigNumberView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/BigNumberView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Views/MainView/MainView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Views/MainView/SubViews/MainViewAIDStatusView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainViewAIDStatusView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainViewAIDStatusView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Views/MainView/SubViews/MainViewDataSourceView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainViewDataSourceView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainViewDataSourceView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Views/MainView/SubViews/MainViewHeaderView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainViewHeaderView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainViewHeaderView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Views/MainView/SubViews/MainViewInfoView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainViewInfoView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/MainViewInfoView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Views/NotificationView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/NotificationView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/NotificationView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Views/RootView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/RootView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/RootView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/xDripWatchApp.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/xDripWatchApp.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/xDripWatchApp.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/DataModels/ComplicationSharedUserDefaultsModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ComplicationSharedUserDefaultsModel.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ComplicationSharedUserDefaultsModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsAlerts.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsAlerts.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsAlerts.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBloodGlucose.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsBloodGlucose.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsBloodGlucose.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCalibrationAlgorithms.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsCalibrationAlgorithms.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsCalibrationAlgorithms.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsFollower.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsFollower.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsFollower.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsGlucoseChartSwiftUI.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsGlucoseChartSwiftUI.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsGlucoseChartSwiftUI.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHomeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsHomeView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsHomeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLibreLinkUp.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsLibreLinkUp.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsLibreLinkUp.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsUI.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsUI.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/ConstantsUI.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/TherapyMetrics.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TherapyMetrics.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TherapyMetrics.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Bundle.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/Bundle.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/Bundle.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Date.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/Date.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/Date.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Double.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/Double.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/Double.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/View.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/View.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/View.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertUrgencyType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/AlertUrgencyType.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/AlertUrgencyType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/GlucoseChartType.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/GlucoseChartType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerBackgroundKeepAliveType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/FollowerBackgroundKeepAliveType.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/FollowerBackgroundKeepAliveType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerDataSourceType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/FollowerDataSourceType.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/FollowerDataSourceType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/LiveActivity/LiveActivityType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/LiveActivityType.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/LiveActivityType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Watch/WatchState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/WatchState.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/WatchState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/GlucoseChartState.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/GlucoseChartState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/GlucoseChartView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/GlucoseChartView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsAlerts.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsAlerts.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsAlerts.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsCommon.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsCommon.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsCommon.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsHomeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsHomeView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsHomeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSettingsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsSettingsView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/TextsSettingsView.o"
+  },
+  "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

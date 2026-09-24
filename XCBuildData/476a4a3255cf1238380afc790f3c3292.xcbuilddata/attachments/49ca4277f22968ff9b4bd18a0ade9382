@@ -1,0 +1,143 @@
+{
+  "" : {
+    "const-values" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/xDrip Watch Complication Extension-primary.swiftconstvalues",
+    "dependencies" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/xDrip Watch Complication Extension-primary.d",
+    "diagnostics" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/xDrip Watch Complication Extension-primary.dia",
+    "emit-module-dependencies" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/xDrip Watch Complication Extension-primary-emit-module.d",
+    "emit-module-diagnostics" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/xDrip Watch Complication Extension-primary-emit-module.dia",
+    "pch" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/xDrip Watch Complication Extension-primary-Bridging-header.pch",
+    "swift-dependencies" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/xDrip Watch Complication Extension-primary.swiftdeps"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch App/Constants/ConstantsAppleWatch.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsAppleWatch.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsAppleWatch.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/Constants/ConstantsWatchComplication.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsWatchComplication.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsWatchComplication.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/DataModels/ComplicationSharedUserDefaultsModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ComplicationSharedUserDefaultsModel.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ComplicationSharedUserDefaultsModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/Texts/TextsWatchComplication.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TextsWatchComplication.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TextsWatchComplication.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/Views/AccessoryCircularView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/AccessoryCircularView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/AccessoryCircularView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/Views/AccessoryCornerView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/AccessoryCornerView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/AccessoryCornerView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/Views/AccessoryInlineView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/AccessoryInlineView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/AccessoryInlineView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/Views/AccessoryRectangularView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/AccessoryRectangularView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/AccessoryRectangularView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/XDripWatchComplication+Entry.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/XDripWatchComplication+Entry.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/XDripWatchComplication+Entry.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/XDripWatchComplication+EntryView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/XDripWatchComplication+EntryView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/XDripWatchComplication+EntryView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/XDripWatchComplication+Provider.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/XDripWatchComplication+Provider.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/XDripWatchComplication+Provider.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/XDripWatchComplication.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/XDripWatchComplication.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/XDripWatchComplication.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsAlerts.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsAlerts.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsAlerts.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBGGraphBuilder.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsBGGraphBuilder.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsBGGraphBuilder.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBloodGlucose.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsBloodGlucose.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsBloodGlucose.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCalibrationAlgorithms.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsCalibrationAlgorithms.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsCalibrationAlgorithms.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsGlucoseChartSwiftUI.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsGlucoseChartSwiftUI.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsGlucoseChartSwiftUI.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHomeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsHomeView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsHomeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLibreLinkUp.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsLibreLinkUp.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsLibreLinkUp.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsUI.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsUI.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/ConstantsUI.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/TherapyMetrics.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TherapyMetrics.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TherapyMetrics.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Bundle.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/Bundle.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/Bundle.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Date.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/Date.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/Date.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Double.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/Double.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/Double.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/View.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/View.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/View.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/GlucoseChartType.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/GlucoseChartType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerBackgroundKeepAliveType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/FollowerBackgroundKeepAliveType.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/FollowerBackgroundKeepAliveType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/LiveActivity/LiveActivityType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/LiveActivityType.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/LiveActivityType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartCompactView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/GlucoseChartCompactView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/GlucoseChartCompactView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsCommon.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TextsCommon.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TextsCommon.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsHomeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TextsHomeView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TextsHomeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSettingsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TextsSettingsView.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/TextsSettingsView.o"
+  },
+  "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/xdrip.build/Release-watchsimulator/xDrip Watch Complication Extension.build/Objects-normal/x86_64/GeneratedAssetSymbols.o"
+  }
+}

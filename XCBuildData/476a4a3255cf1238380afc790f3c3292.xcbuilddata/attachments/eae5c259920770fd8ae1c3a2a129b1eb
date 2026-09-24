@@ -1,0 +1,40 @@
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/DataModels/NotificationController.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartState.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Views/MainView/SubViews/MainViewHeaderView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBloodGlucose.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Views/MainView/SubViews/MainViewAIDStatusView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Double.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsHomeView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerDataSourceType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHomeView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/TherapyMetrics.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/LiveActivity/LiveActivityType.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ Complication/DataModels/ComplicationSharedUserDefaultsModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/View.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Texts/TextsWatchApp.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartType.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Views/MainView/MainView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSettingsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsAlerts.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Views/MainView/SubViews/MainViewInfoView.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/DataModels/WatchStateModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/xDripWatchApp.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Views/MainView/SubViews/MainViewDataSourceView.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Views/BigNumberView/BigNumberView.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Views/RootView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCalibrationAlgorithms.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Bundle.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Date.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerBackgroundKeepAliveType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Watch/WatchState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsAlerts.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsCommon.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsGlucoseChartSwiftUI.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Views/NotificationView.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ App/Constants/ConstantsAppleWatch.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsFollower.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLibreLinkUp.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsUI.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertUrgencyType.swift
+/xdrip.build/Release-watchsimulator/xDrip\ Watch\ App.build/DerivedSources/GeneratedAssetSymbols.swift

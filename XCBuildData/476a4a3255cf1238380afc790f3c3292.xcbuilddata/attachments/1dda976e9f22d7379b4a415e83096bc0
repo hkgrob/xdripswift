@@ -1,0 +1,39 @@
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Date.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/AccessoryCircularView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Bundle.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/SystemLargeView.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/DataModels/XDripWidgetAttributes.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHomeView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/TherapyMetrics.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCalibrationAlgorithms.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/XDripWidget+Entry.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsHomeView.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/SystemSmallView.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/XDripWidget+Provider.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/SystemMediumView.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/XDripWidgetLiveActivity.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/LiveActivityViewContent.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/XDripWidgetBundle.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/XDripWidget+EntryView.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/XDripWidget.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/LiveActivityViewContentActivityFamilies.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/LiveActivity/LiveActivityType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsGlucoseChartSwiftUI.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBloodGlucose.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/AccessoryRectangularView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLibreLinkUp.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Double.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Constants/ConstantsWidgetExtension.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsAlerts.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsCommon.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBGGraphBuilder.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/View.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/LiveActivityView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsUI.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Widgets/WidgetSharedUserDefaultsModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLiveActivity.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSettingsView.swift
+/xdrip.build/Release-iphonesimulator/xDrip\ Widget\ Extension.build/DerivedSources/GeneratedAssetSymbols.swift

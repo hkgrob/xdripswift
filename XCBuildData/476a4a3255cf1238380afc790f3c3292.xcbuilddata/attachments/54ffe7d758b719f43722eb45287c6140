@@ -1,0 +1,485 @@
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Statistics/GlucoseRangeDistribution.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/TroubleshootingLog.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/TroubleshootingLogView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/OnlineHelp.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerBackgroundKeepAliveManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutFollowerGapFillService.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/DataFlowPolicy.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Backup/BackupModels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Backup/BackupCrypto.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Backup/BackupService.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/DataManagementView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/HouseKeeping/DataManagementService.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/DataDeletionView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/ImportDataView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/ManageDataView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutImportService.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/NightscoutImportView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsCommon.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsContactImage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsDexcomShareTestResult.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreNFCDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/TransmitterMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomTransmitterTimeRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Date.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsTreatmentsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BgReadings/BgReadingsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/DexcomG7+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsCalibration.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewNotificationsSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/LiveActivitySettingsPreview.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/LiveActivityViewContent.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Views/LiveActivityViewContentActivityFamilies.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Libre2/CGMLibre2TransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Libre2/CGMLibre2Transmitter+TestData.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackTransmitterOpCode.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BgReadings/BgReadingsDetailView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/G5/CGMG5TransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackBluetoothTransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/SensorsAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreSensorState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Int.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/Bubble+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Dexcom/G7/DexcomG7+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Medtrum/TouchCareNano/MedtrumTouchCareNano+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsBgReadings.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/GlucoseData+LoopShare.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSettingsIcons.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/OmniPodHeartBeat+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStopTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/LiveActivity/LiveActivityManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/MiaoMiao+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/ResetMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHeartBeat.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/SnoozeParametersAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/MiaoMiao/CGMMiaoMiaoTransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UInt32.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSpeakReading.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackMessages/M5StackReadBlePassWordTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/DexcomG5+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/NSData+CRC.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCoreData.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutFollowType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/GlucoseData+Smoothable.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLiveActivity.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Double.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/Generic/BluetoothTransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/M5/M5StickC/M5StickC.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsNightscout.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewSpeakSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsErrorMessages.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewModelProtocol.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManaging.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/BgAdjustment+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/BgAdjustment+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BgAdjustmentsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/BgReading+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerBackgroundKeepAliveType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertKind.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/Extensions/BgReading+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7GlucoseDataRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackMessages/M5StackAuthenticateTXMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/DexcomG7HeartBeat+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/FirmwareVersionTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreCalibrationInfo.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/Extensions/Calibration+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/RepeatingTimer.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/PreLibre2.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsQuickActions.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/CRC.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomTransmitterTimeTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/Endpoint+Nightscout.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/DexcomShare/DexcomShareModels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/TransmitterBatteryInfo.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutDateFormatter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomCalibrationResponseType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/MiaoMiao/CGMMiaoMiaoTransmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Bubble/CGMBubbleTransmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsStatistics.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewContactImageSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMBubbleTransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/AlgorithmType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/UniqueId.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBGGraphBuilder.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Landscape/LandscapeValueView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/DexcomShare/DexcomShareUploadManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/CGMSensorType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsMaster.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerDataSourceType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7BackfillMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/CGMTransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UserDefaults+charts.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHealthKit.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertUrgencyType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsAlerts.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/G7/CGMG7TransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/TreatmentEntry+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Libre/Libre2/Libre2+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/AuthChallengeRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Landscape/LandscapeChartView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Landscape/LandscapeLoopalyzerChart.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Calibration/Libre1Calibrator.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/G7/CGMG7Transmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7AuthSession.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7ProofSigner.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Medtrum/TouchCareNano/CGMMedtrumTouchCareNanoTransmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsHomeView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Calibration/DexcomCalibrator.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/Generic/BluetoothTransmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/BatteryStatusRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Calibration/Libre1NonFixedSlopeCalibrator.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Bundle.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutSyncManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/NightscoutDeviceStatusEntry+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/NightscoutDeviceStatusEntry+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/NightscoutDeviceStatusAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/BgPostProcessingManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/BgSmoothingAlgorithmPlugin.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/ExponentialBgSmoothing.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/SavitzkyGolayBgSmoothing.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/KalmanBgSmoothing.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/LoessBgSmoothing.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/HampelSavitzkyGolayBgSmoothing.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/TransmitterVersionRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSpeakReadingLanguages.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/MedtrumTouchCareNano+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCalibrationAlgorithms.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewStatisticsSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/CBPeripheralState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreOOPWebError.swift
+/Users/robertweir/Dev/xdripswift/xDrip/LiveActivityIntent.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/Libre2HeartBeat+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/TreatmentEntryAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/NightscoutProfileEntry+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/NightscoutProfileEntry+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/NightscoutProfileScheduleEntry+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/NightscoutProfileScheduleEntry+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/NightscoutProfileAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/M5/M5Stack/M5Stack+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/SnoozeParameters.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Watch/WatchState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/AlertEntry+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsTrace.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/Generic/BluetoothPeripheralType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertNotificationDictionary.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/GlucoseDataRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/HealthKit/HealthKitManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStopResponse.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/DexcomG7+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/MedtrumTouchCareNano+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/CalibrationsAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Speak/BGReadingSpeaker.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewHealthKitSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Calibration/Protocol/Calibrator.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/Sensor+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewAlertSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/TransmitterReadSuccess/TransmitterReadSuccessManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/ShowHideItemsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/SnoozeView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewHomeScreenSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSounds.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDexcomShare.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSuspensionPrevention.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Watch\ Complication/DataModels/ComplicationSharedUserDefaultsModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewM5StackBluetoothSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Application\ Delegate/XdripApp.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsLibreStates.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDexcomG7.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewDataSourceSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/FollowerSettingsScreenFactory.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/NightscoutFollowerSettings.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/LibreLinkUpFollowerSettings.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/DexcomShareFollowerSettings.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/MedtrumEasyViewFollowerSettings.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/SharedCalendarFollowerSettings.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerSessionState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/SelectedFollowerActions.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/FollowerConnectionPresentation.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/FollowerServiceStatusMonitor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/FollowerSettingsSupport.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkPresentation.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkWebLogin.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkTherapyParser.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkGlucoseParser.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/SavitzkyGolaySmoothableArray.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewCalendarEventsSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/TransmitterReadSuccess/TransmitterReadSuccessResult.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/DataModels/XDripWidgetAttributes.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/Bubble+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsNotifications.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/DexcomG5+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMG7TransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Treatments/TreatmentCollection.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/TransmitterVersionTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Dexcom/G5/DexcomG5+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/G5/CGMG5Transmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/AlertEntriesAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDexcomG5.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UInt16.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSettingsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Calibration/NoCalibrator.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreSensorType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Libre/MiaoMiao/MiaoMiao+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsFollower.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/NSMutableURLRequest.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/DexcomShare/DexcomShareFollowManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsWidget.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/String.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/OmniPodHeartBeat+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewNightscoutSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/AlertEntry+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMMiaoMiaoTransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip\ Widget/Constants/ConstantsWidgetExtension.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/String+Dexcom.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Bubble/CGMBubbleTransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/M5Stack+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomGlucoseDataTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/MiaoMiao+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomTransmitterOpCode.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Application\ Delegate/AppDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStartRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/M5Stack+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/SnoozeParameters+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/Utilities/M5StackPacket.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsLibreErrors.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/LibreLinkUp/LibreLinkUpModels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBloodGlucose.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerBgReading.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomBackfillStream.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/HeartBeat/OmniPodHeartBeat+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/BLEPeripheral+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Array.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/HeartBeat/DexcomG7HeartbeatBluetoothTransmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsM5Stack.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/KeyValueObserverTimeKeeper.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Errors/XdripError.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/LoopFollowManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreSensorSerialNumber.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHomeView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/TherapyMetrics.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDefaultAlertLevels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Calibration/SlopeParameters.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Watch/WatchManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/ContactImage/ContactImageRenderer.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsMedtrumEasyView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/CBManagerState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Calendar/CalendarManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsAlertTypeSettings.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/HouseKeeping/HouseKeeper.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomBackfillTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/AIDStatusView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/AIDStatusBanner.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralDetailState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralDetailView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralSettingsRow.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/TransmitterReadSuccessView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Treatments/TreatmentEditorViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Treatments/TreatmentEditorView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Treatments/TreatmentsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Treatments/TreatmentsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/SensorManagementView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/CalibrationView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/CalibrationHistoryView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/CalibrationReadiness.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/SensorStartView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/DexcomG6SensorLabel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/SensorCodeScannerView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/SensorNoiseHistoryView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLibre.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStartTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewM5StackGeneralSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsGlucoseChartSwiftUI.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsSelectedRowAction.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/DexcomG7HeartBeat+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreNFC.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMLibre2TransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/Libre2BLEUtilities.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/LiveActivity/LiveActivityType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/LoopDelayScheduleView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/StringProtocol.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/AuthChallengeTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/AlertType+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CoreData/CoreDataManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewTraceSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Calibration/CalibrationType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/Calibration+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Int16.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCalendar.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/PairRequestTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/TimeInterval.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/HeartBeat/DexcomG7HeartBeat+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/HeartBeat/Libre2HeartBeat+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/GlucoseBackfillRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/BatteryStatusTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG6GlucoseDataRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/Libre2+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UInt8.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/BLEPeripheralAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStopRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsLibreNFC.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreError.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBluetoothPairing.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/Generic/BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Trace.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSpeakReading.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStartResponse.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Application/ApplicationManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutProfileModels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/PickerViewData.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/Libre1DerivedAlgorithmParameters.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/TreatmentEntry+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/HeartBeat/Libre3HeartbeatBluetoothTransmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/Generic/BluetoothPeripheralCategory.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/AlertType+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/DexcomError.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsAlerts.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/SensorDataRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Application/RootApplicationCoordinator.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/AuthRequestRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UserDefaults.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/DexcomShare/BgReading+DexcomShare.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/Utilities/M5StackUtilities.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertSnoozeStatus.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutFollowManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreMeasurement.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsM5StackView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackBluetoothTransmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSnooze.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Statistics/TimeInRangeType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/GlucoseData.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+M5StackBluetoothTransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMG5TransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLibreLinkUp.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/SoundPlayer/SoundPlayer.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Treatments/TreatmentNSResponse.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/AlertTypesAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/AuthRequestTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/KeepAliveTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/QuickActions/QuickActionsManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/BgReadingsAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/accessors/BgAdjustmentsAccessor.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/View.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/Libre2HeartBeat+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomCalibrationRxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/MiaoMiao/MiaoMiaoResponseType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Network/Endpoint.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Libre2/CGMLibre2Transmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Libre2/Libre2FrameAssembler.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsBluetoothPeripheralsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Statistics/StatisticsManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/Libre2+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/HeartBeat/OmniPodHeartbeatBluetoothTransmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/BgReading+Nightscout.swift
+/Users/robertweir/Dev/xdripswift/xDrip/GlucoseIntent.swift
+/Users/robertweir/Dev/xdripswift/xDrip/AppShortcuts.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomCalibrationTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7CalibrationMessages.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7ExtendedVersionMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7DiagnosticMessages.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewM5StackSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHousekeeping.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/Calibration+Nightscout.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/LibreLinkUp/LibreLinkUpFollowManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Libre/Bubble/Bubble+BluetoothPeripheral.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Data.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsGlucoseChart.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsAppColors.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartScrollCoordinator.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartStateManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHomeState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/TherapyMetricsSettingsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Therapy/TherapyMetricsManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHomeView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeChartRange.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeToolbarView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeStatusViews.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeGlucoseReadingView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeChartViews.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeStatisticsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeFooterViews.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeClockView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootTabView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/GenerateReportView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/GenerateReportViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/AGPChartView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportAGPChartView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportClinicalPageView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportDailySummarySectionView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportFormatting.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportMetricGridView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportModels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportPDFGenerator.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportPreviewView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportTimeInRangeBarView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportUserDefaults.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Statistics/StatisticsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Statistics/StatisticsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Treatments/DateOnly.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/BgReading+LoopShare.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/LoopManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/LoopShareType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/Extensions/Sensor+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsBluetoothPeripheralView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/SensorNoise/SensorNoiseCalculator.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/SensorNoise/SensorNoiseManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/SensorHealth/SensorHealthIssueManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/SensorHealth/SensorHealthModels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/SensorNoiseSample+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/Extensions/SensorNoiseSample+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/BatteryHistorySample+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/Extensions/BatteryHistorySample+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BatteryHistory/BatteryHistoryManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BatteryHistoryView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothSignalStrengthView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Utilities/ScreenLockDimmingType.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewDevelopmentSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+BluetoothTransmitterDelegate.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreDataParser.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsShareWithLoop.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Calendar/CalendarFollowManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/CGMTransmitter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Widgets/WidgetSharedUserDefaultsModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsNightscout.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBgSmoothing.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBgAdjustment.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/SnoozeParameters+CoreDataClass.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreAlgorithmThresholds.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Double+Smoothable.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomAlgorithmState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG6InitialCalibrationPolicy.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Extensions/URL.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutDeviceStatusModels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/MedtrumEasyView/MedtrumEasyViewFollowManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/MedtrumEasyView/MedtrumEasyViewModels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewInfoViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewDexcomShareSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/SensorDataTxMessage.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/ContactImage/ContactImageManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Core\ Data/classes/BLEPeripheral+CoreDataProperties.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLog.swift
+/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomCalibrationParameters.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDefaultAlertTypeSettings.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewHousekeeperSettingsViewModel.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsUI.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/SettingsSharedUtilities.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/SettingsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/TimeScheduleView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/AlertTypesSettingsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/AlertsSettingsView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkAccountState.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkClient.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkFollowManager.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkModels.swift
+/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/CareLinkFollowerSettings.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkTherapyImporter.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkPumpStatusView.swift
+/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkTokenStore.swift
+/xdrip.build/Release-iphonesimulator/xdrip.build/DerivedSources/GeneratedAssetSymbols.swift

@@ -1,0 +1,167 @@
+{
+  "" : {
+    "const-values" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/xDrip Widget Extension-primary.swiftconstvalues",
+    "dependencies" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/xDrip Widget Extension-primary.d",
+    "diagnostics" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/xDrip Widget Extension-primary.dia",
+    "emit-module-dependencies" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/xDrip Widget Extension-primary-emit-module.d",
+    "emit-module-diagnostics" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/xDrip Widget Extension-primary-emit-module.dia",
+    "pch" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/xDrip Widget Extension-primary-Bridging-header.pch",
+    "swift-dependencies" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/xDrip Widget Extension-primary.swiftdeps"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Constants/ConstantsWidgetExtension.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsWidgetExtension.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsWidgetExtension.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/DataModels/XDripWidgetAttributes.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidgetAttributes.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidgetAttributes.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/AccessoryCircularView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/AccessoryCircularView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/AccessoryCircularView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/AccessoryRectangularView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/AccessoryRectangularView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/AccessoryRectangularView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/LiveActivityView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/LiveActivityView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/LiveActivityView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/LiveActivityViewContent.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/LiveActivityViewContent.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/LiveActivityViewContent.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/LiveActivityViewContentActivityFamilies.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/LiveActivityViewContentActivityFamilies.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/LiveActivityViewContentActivityFamilies.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/SystemLargeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/SystemLargeView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/SystemLargeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/SystemMediumView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/SystemMediumView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/SystemMediumView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/SystemSmallView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/SystemSmallView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/SystemSmallView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/XDripWidget+Entry.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidget+Entry.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidget+Entry.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/XDripWidget+EntryView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidget+EntryView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidget+EntryView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/XDripWidget+Provider.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidget+Provider.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidget+Provider.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/XDripWidget.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidget.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidget.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/XDripWidgetBundle.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidgetBundle.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidgetBundle.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/XDripWidgetLiveActivity.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidgetLiveActivity.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/XDripWidgetLiveActivity.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsAlerts.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsAlerts.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsAlerts.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBGGraphBuilder.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsBGGraphBuilder.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsBGGraphBuilder.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBloodGlucose.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsBloodGlucose.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsBloodGlucose.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCalibrationAlgorithms.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsCalibrationAlgorithms.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsCalibrationAlgorithms.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsGlucoseChartSwiftUI.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsGlucoseChartSwiftUI.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsGlucoseChartSwiftUI.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHomeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsHomeView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsHomeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLibreLinkUp.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsLibreLinkUp.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsLibreLinkUp.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLiveActivity.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsLiveActivity.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsLiveActivity.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsUI.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsUI.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/ConstantsUI.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/TherapyMetrics.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/TherapyMetrics.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/TherapyMetrics.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Bundle.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/Bundle.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/Bundle.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Date.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/Date.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/Date.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Double.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/Double.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/Double.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/View.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/View.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/View.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/GlucoseChartType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/GlucoseChartType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/LiveActivity/LiveActivityType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/LiveActivityType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/LiveActivityType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Widgets/WidgetSharedUserDefaultsModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/WidgetSharedUserDefaultsModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/WidgetSharedUserDefaultsModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/GlucoseChartState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/GlucoseChartState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/GlucoseChartView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/GlucoseChartView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsCommon.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/TextsCommon.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/TextsCommon.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsHomeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/TextsHomeView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/TextsHomeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSettingsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/TextsSettingsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/TextsSettingsView.o"
+  },
+  "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xDrip Widget Extension.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

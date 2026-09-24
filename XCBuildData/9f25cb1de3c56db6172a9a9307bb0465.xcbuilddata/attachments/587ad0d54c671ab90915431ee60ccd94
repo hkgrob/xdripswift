@@ -1,0 +1,1951 @@
+{
+  "" : {
+    "const-values" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/xdrip-primary.swiftconstvalues",
+    "dependencies" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/xdrip-primary.d",
+    "diagnostics" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/xdrip-primary.dia",
+    "emit-module-dependencies" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/xdrip-primary-emit-module.d",
+    "emit-module-diagnostics" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/xdrip-primary-emit-module.dia",
+    "pch" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/xdrip-primary-Bridging-header.pch",
+    "swift-dependencies" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/xdrip-primary.swiftdeps"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Watch Complication/DataModels/ComplicationSharedUserDefaultsModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ComplicationSharedUserDefaultsModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ComplicationSharedUserDefaultsModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Constants/ConstantsWidgetExtension.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsWidgetExtension.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsWidgetExtension.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/DataModels/XDripWidgetAttributes.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/XDripWidgetAttributes.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/XDripWidgetAttributes.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/LiveActivityViewContent.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityViewContent.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityViewContent.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip Widget/Views/LiveActivityViewContentActivityFamilies.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityViewContentActivityFamilies.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityViewContentActivityFamilies.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/AppShortcuts.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AppShortcuts.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AppShortcuts.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Application Delegate/AppDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Application Delegate/XdripApp.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/XdripApp.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/XdripApp.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Dexcom/G5/DexcomG5+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG5+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG5+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Dexcom/G7/DexcomG7+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Libre/Bubble/Bubble+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Bubble+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Bubble+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Libre/Libre2/Libre2+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Libre/MiaoMiao/MiaoMiao+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MiaoMiao+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MiaoMiao+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/CGM/Medtrum/TouchCareNano/MedtrumTouchCareNano+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumTouchCareNano+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumTouchCareNano+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/Generic/BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/Generic/BluetoothPeripheralCategory.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralCategory.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralCategory.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/Generic/BluetoothPeripheralType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/HeartBeat/DexcomG7HeartBeat+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7HeartBeat+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7HeartBeat+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/HeartBeat/Libre2HeartBeat+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2HeartBeat+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2HeartBeat+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/HeartBeat/OmniPodHeartBeat+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OmniPodHeartBeat+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OmniPodHeartBeat+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/M5/M5Stack/M5Stack+BluetoothPeripheral.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5Stack+BluetoothPeripheral.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5Stack+BluetoothPeripheral.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothPeripheral/M5/M5StickC/M5StickC.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StickC.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StickC.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/DexcomError.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomError.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomError.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/G5/CGMG5Transmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMG5Transmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMG5Transmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/G5/CGMG5TransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMG5TransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMG5TransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/G7/CGMG7Transmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMG7Transmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMG7Transmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/G7/CGMG7TransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMG7TransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMG7TransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/AuthChallengeRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AuthChallengeRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AuthChallengeRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/AuthChallengeTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AuthChallengeTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AuthChallengeTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/AuthRequestRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AuthRequestRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AuthRequestRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/AuthRequestTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AuthRequestTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AuthRequestTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/BatteryStatusRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryStatusRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryStatusRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/BatteryStatusTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryStatusTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryStatusTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomAlgorithmState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomAlgorithmState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomAlgorithmState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomBackfillStream.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomBackfillStream.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomBackfillStream.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomBackfillTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomBackfillTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomBackfillTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomCalibrationParameters.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrationParameters.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrationParameters.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomCalibrationResponseType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrationResponseType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrationResponseType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomCalibrationRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrationRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrationRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomCalibrationTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrationTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrationTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG6GlucoseDataRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG6GlucoseDataRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG6GlucoseDataRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG6InitialCalibrationPolicy.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG6InitialCalibrationPolicy.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG6InitialCalibrationPolicy.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7AuthSession.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7AuthSession.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7AuthSession.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7BackfillMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7BackfillMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7BackfillMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7CalibrationMessages.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7CalibrationMessages.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7CalibrationMessages.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7DiagnosticMessages.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7DiagnosticMessages.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7DiagnosticMessages.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7ExtendedVersionMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7ExtendedVersionMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7ExtendedVersionMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7GlucoseDataRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7GlucoseDataRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7GlucoseDataRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomG7ProofSigner.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7ProofSigner.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7ProofSigner.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomGlucoseDataTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomGlucoseDataTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomGlucoseDataTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStartResponse.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStartResponse.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStartResponse.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStartRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStartRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStartRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStartTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStartTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStartTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStopResponse.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStopResponse.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStopResponse.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStopRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStopRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStopRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomSessionStopTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStopTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomSessionStopTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomTransmitterOpCode.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomTransmitterOpCode.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomTransmitterOpCode.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomTransmitterTimeRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomTransmitterTimeRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomTransmitterTimeRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/DexcomTransmitterTimeTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomTransmitterTimeTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomTransmitterTimeTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/FirmwareVersionTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FirmwareVersionTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FirmwareVersionTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/GlucoseBackfillRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseBackfillRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseBackfillRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/GlucoseDataRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseDataRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseDataRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/KeepAliveTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/KeepAliveTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/KeepAliveTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/NSData+CRC.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NSData+CRC.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NSData+CRC.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/PairRequestTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/PairRequestTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/PairRequestTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/ResetMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ResetMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ResetMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/SensorDataRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorDataRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorDataRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/SensorDataTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorDataTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorDataTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/String+Dexcom.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/String+Dexcom.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/String+Dexcom.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/TransmitterMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/TransmitterVersionRxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterVersionRxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterVersionRxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Dexcom/Generic/TransmitterVersionTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterVersionTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterVersionTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/CGMSensorType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMSensorType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMSensorType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/CGMTransmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMTransmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMTransmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/CGMTransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMTransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMTransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/GlucoseData+Smoothable.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseData+Smoothable.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseData+Smoothable.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/GlucoseData.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseData.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseData.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Generic/TransmitterBatteryInfo.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterBatteryInfo.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterBatteryInfo.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Bubble/CGMBubbleTransmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMBubbleTransmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMBubbleTransmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Bubble/CGMBubbleTransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMBubbleTransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMBubbleTransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Libre2/CGMLibre2Transmitter+TestData.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMLibre2Transmitter+TestData.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMLibre2Transmitter+TestData.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Libre2/CGMLibre2Transmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMLibre2Transmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMLibre2Transmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Libre2/CGMLibre2TransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMLibre2TransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMLibre2TransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Libre2/Libre2FrameAssembler.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2FrameAssembler.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2FrameAssembler.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/MiaoMiao/CGMMiaoMiaoTransmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMMiaoMiaoTransmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMMiaoMiaoTransmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/MiaoMiao/CGMMiaoMiaoTransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMMiaoMiaoTransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMMiaoMiaoTransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/MiaoMiao/MiaoMiaoResponseType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MiaoMiaoResponseType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MiaoMiaoResponseType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/CRC.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CRC.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CRC.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/Libre1DerivedAlgorithmParameters.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre1DerivedAlgorithmParameters.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre1DerivedAlgorithmParameters.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/Libre2BLEUtilities.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2BLEUtilities.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2BLEUtilities.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreAlgorithmThresholds.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreAlgorithmThresholds.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreAlgorithmThresholds.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreCalibrationInfo.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreCalibrationInfo.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreCalibrationInfo.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreDataParser.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreDataParser.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreDataParser.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreError.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreError.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreError.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreMeasurement.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreMeasurement.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreMeasurement.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreNFC.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreNFC.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreNFC.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreNFCDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreNFCDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreNFCDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreOOPWebError.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreOOPWebError.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreOOPWebError.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreSensorSerialNumber.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreSensorSerialNumber.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreSensorSerialNumber.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreSensorState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreSensorState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreSensorState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/LibreSensorType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreSensorType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreSensorType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Libre/Utilities/PreLibre2.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/PreLibre2.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/PreLibre2.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/CGM/Medtrum/TouchCareNano/CGMMedtrumTouchCareNanoTransmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMMedtrumTouchCareNanoTransmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CGMMedtrumTouchCareNanoTransmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/Generic/BluetoothTransmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothTransmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothTransmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/Generic/BluetoothTransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothTransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothTransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/HeartBeat/DexcomG7HeartbeatBluetoothTransmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7HeartbeatBluetoothTransmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7HeartbeatBluetoothTransmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/HeartBeat/Libre3HeartbeatBluetoothTransmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre3HeartbeatBluetoothTransmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre3HeartbeatBluetoothTransmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/HeartBeat/OmniPodHeartbeatBluetoothTransmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OmniPodHeartbeatBluetoothTransmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OmniPodHeartbeatBluetoothTransmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackBluetoothTransmitter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackBluetoothTransmitter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackBluetoothTransmitter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackBluetoothTransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackBluetoothTransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackBluetoothTransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackMessages/M5StackAuthenticateTXMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackAuthenticateTXMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackAuthenticateTXMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackMessages/M5StackReadBlePassWordTxMessage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackReadBlePassWordTxMessage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackReadBlePassWordTxMessage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/M5StackTransmitterOpCode.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackTransmitterOpCode.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackTransmitterOpCode.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/Utilities/M5StackPacket.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackPacket.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackPacket.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/BluetoothTransmitter/M5Stack/Utilities/M5StackUtilities.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackUtilities.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5StackUtilities.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Calibration/DexcomCalibrator.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrator.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomCalibrator.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Calibration/Libre1Calibrator.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre1Calibrator.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre1Calibrator.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Calibration/Libre1NonFixedSlopeCalibrator.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre1NonFixedSlopeCalibrator.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre1NonFixedSlopeCalibrator.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Calibration/NoCalibrator.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NoCalibrator.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NoCalibrator.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Calibration/Protocol/Calibrator.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Calibrator.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Calibrator.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Calibration/SlopeParameters.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SlopeParameters.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SlopeParameters.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsAlerts.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsAlerts.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsAlerts.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsAppColors.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsAppColors.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsAppColors.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBGGraphBuilder.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBGGraphBuilder.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBGGraphBuilder.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBgAdjustment.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBgAdjustment.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBgAdjustment.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBgSmoothing.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBgSmoothing.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBgSmoothing.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBloodGlucose.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBloodGlucose.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBloodGlucose.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsBluetoothPairing.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBluetoothPairing.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsBluetoothPairing.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCalendar.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsCalendar.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsCalendar.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCalibrationAlgorithms.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsCalibrationAlgorithms.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsCalibrationAlgorithms.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsContactImage.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsContactImage.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsContactImage.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsCoreData.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsCoreData.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsCoreData.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDefaultAlertLevels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDefaultAlertLevels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDefaultAlertLevels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDefaultAlertTypeSettings.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDefaultAlertTypeSettings.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDefaultAlertTypeSettings.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDexcomG5.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDexcomG5.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDexcomG5.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDexcomG7.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDexcomG7.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDexcomG7.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsDexcomShare.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDexcomShare.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsDexcomShare.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsFollower.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsFollower.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsFollower.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsGlucoseChart.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsGlucoseChart.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsGlucoseChart.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsGlucoseChartSwiftUI.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsGlucoseChartSwiftUI.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsGlucoseChartSwiftUI.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHealthKit.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsHealthKit.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsHealthKit.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHeartBeat.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsHeartBeat.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsHeartBeat.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHomeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsHomeView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsHomeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsHousekeeping.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsHousekeeping.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsHousekeeping.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLibre.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsLibre.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsLibre.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLibreLinkUp.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsLibreLinkUp.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsLibreLinkUp.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLiveActivity.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsLiveActivity.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsLiveActivity.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsLog.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsLog.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsLog.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsM5Stack.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsM5Stack.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsM5Stack.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsMaster.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsMaster.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsMaster.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsMedtrumEasyView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsMedtrumEasyView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsMedtrumEasyView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsNightscout.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsNightscout.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsNightscout.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsNotifications.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsNotifications.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsNotifications.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSettingsIcons.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSettingsIcons.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSettingsIcons.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsShareWithLoop.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsShareWithLoop.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsShareWithLoop.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSounds.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSounds.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSounds.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSpeakReading.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSpeakReading.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSpeakReading.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSpeakReadingLanguages.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSpeakReadingLanguages.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSpeakReadingLanguages.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsStatistics.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsStatistics.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsStatistics.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsSuspensionPrevention.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSuspensionPrevention.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsSuspensionPrevention.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsTrace.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsTrace.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsTrace.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsUI.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsUI.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsUI.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/ConstantsWidget.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsWidget.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ConstantsWidget.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Constants/TherapyMetrics.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TherapyMetrics.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TherapyMetrics.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/Extensions/BatteryHistorySample+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryHistorySample+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryHistorySample+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/Extensions/BgReading+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/Extensions/Calibration+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Calibration+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Calibration+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/Extensions/Sensor+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Sensor+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Sensor+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/Extensions/SensorNoiseSample+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseSample+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseSample+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/AlertEntriesAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertEntriesAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertEntriesAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/AlertTypesAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertTypesAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertTypesAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/BLEPeripheralAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BLEPeripheralAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BLEPeripheralAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/BgAdjustmentsAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgAdjustmentsAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgAdjustmentsAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/BgReadingsAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReadingsAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReadingsAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/CalibrationsAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationsAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationsAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/NightscoutDeviceStatusAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDeviceStatusAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDeviceStatusAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/NightscoutProfileAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/SensorsAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorsAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorsAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/SnoozeParametersAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeParametersAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeParametersAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/accessors/TreatmentEntryAccessor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEntryAccessor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEntryAccessor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/AlertEntry+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertEntry+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertEntry+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/AlertEntry+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertEntry+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertEntry+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/AlertType+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertType+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertType+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/AlertType+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertType+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertType+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/BLEPeripheral+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BLEPeripheral+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BLEPeripheral+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/BLEPeripheral+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BLEPeripheral+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BLEPeripheral+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/BatteryHistorySample+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryHistorySample+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryHistorySample+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/BgAdjustment+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgAdjustment+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgAdjustment+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/BgAdjustment+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgAdjustment+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgAdjustment+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/BgReading+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/Bubble+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Bubble+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Bubble+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/Bubble+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Bubble+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Bubble+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/Calibration+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Calibration+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Calibration+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/DexcomG5+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG5+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG5+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/DexcomG5+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG5+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG5+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/DexcomG7+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/DexcomG7+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/DexcomG7HeartBeat+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7HeartBeat+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7HeartBeat+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/DexcomG7HeartBeat+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7HeartBeat+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG7HeartBeat+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/Libre2+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/Libre2+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/Libre2HeartBeat+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2HeartBeat+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2HeartBeat+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/Libre2HeartBeat+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2HeartBeat+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Libre2HeartBeat+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/M5Stack+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5Stack+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5Stack+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/M5Stack+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5Stack+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/M5Stack+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/MedtrumTouchCareNano+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumTouchCareNano+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumTouchCareNano+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/MedtrumTouchCareNano+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumTouchCareNano+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumTouchCareNano+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/MiaoMiao+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MiaoMiao+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MiaoMiao+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/MiaoMiao+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MiaoMiao+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MiaoMiao+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/NightscoutDeviceStatusEntry+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDeviceStatusEntry+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDeviceStatusEntry+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/NightscoutDeviceStatusEntry+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDeviceStatusEntry+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDeviceStatusEntry+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/NightscoutProfileEntry+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileEntry+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileEntry+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/NightscoutProfileEntry+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileEntry+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileEntry+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/NightscoutProfileScheduleEntry+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileScheduleEntry+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileScheduleEntry+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/NightscoutProfileScheduleEntry+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileScheduleEntry+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileScheduleEntry+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/OmniPodHeartBeat+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OmniPodHeartBeat+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OmniPodHeartBeat+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/OmniPodHeartBeat+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OmniPodHeartBeat+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OmniPodHeartBeat+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/Sensor+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Sensor+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Sensor+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/SensorNoiseSample+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseSample+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseSample+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/SnoozeParameters+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeParameters+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeParameters+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/SnoozeParameters+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeParameters+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeParameters+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/TreatmentEntry+CoreDataClass.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEntry+CoreDataClass.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEntry+CoreDataClass.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Core Data/classes/TreatmentEntry+CoreDataProperties.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEntry+CoreDataProperties.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEntry+CoreDataProperties.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Array.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Array.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Array.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Bundle.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Bundle.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Bundle.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/CBManagerState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CBManagerState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CBManagerState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/CBPeripheralState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CBPeripheralState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CBPeripheralState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Data.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Data.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Data.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Date.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Date.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Date.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Double+Smoothable.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Double+Smoothable.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Double+Smoothable.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Double.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Double.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Double.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Int.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Int.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Int.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/Int16.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Int16.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Int16.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/NSMutableURLRequest.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NSMutableURLRequest.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NSMutableURLRequest.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/String.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/String.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/String.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/StringProtocol.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/StringProtocol.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/StringProtocol.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/TimeInterval.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TimeInterval.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TimeInterval.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UInt16.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UInt16.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UInt16.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UInt32.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UInt32.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UInt32.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UInt8.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UInt8.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UInt8.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/URL.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/URL.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/URL.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UserDefaults+charts.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UserDefaults+charts.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UserDefaults+charts.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/UserDefaults.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UserDefaults.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UserDefaults.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Extensions/View.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/View.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/View.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/GlucoseIntent.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseIntent.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseIntent.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/LiveActivityIntent.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityIntent.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityIntent.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertKind.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertKind.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertKind.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertNotificationDictionary.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertNotificationDictionary.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertNotificationDictionary.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertSnoozeStatus.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertSnoozeStatus.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertSnoozeStatus.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/AlertUrgencyType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertUrgencyType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertUrgencyType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/PickerViewData.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/PickerViewData.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/PickerViewData.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Alerts/SnoozeParameters.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeParameters.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeParameters.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Application/ApplicationManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ApplicationManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ApplicationManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Application/RootApplicationCoordinator.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootApplicationCoordinator.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootApplicationCoordinator.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BatteryHistory/BatteryHistoryManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryHistoryManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryHistoryManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/AlgorithmType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlgorithmType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlgorithmType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+BluetoothTransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+BluetoothTransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+BluetoothTransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMBubbleTransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMBubbleTransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMBubbleTransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMG5TransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMG5TransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMG5TransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMG7TransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMG7TransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMG7TransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMLibre2TransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMLibre2TransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMLibre2TransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+CGMMiaoMiaoTransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMMiaoMiaoTransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+CGMMiaoMiaoTransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager+M5StackBluetoothTransmitterDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+M5StackBluetoothTransmitterDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager+M5StackBluetoothTransmitterDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/BluetoothPeripheral/BluetoothPeripheralManaging.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManaging.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralManaging.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Calendar/CalendarFollowManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalendarFollowManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalendarFollowManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Calendar/CalendarManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalendarManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalendarManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Calibration/CalibrationType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkAccountState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkAccountState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkAccountState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkClient.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkClient.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkClient.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkFollowManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkFollowManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkFollowManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkGlucoseParser.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkGlucoseParser.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkGlucoseParser.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkModels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkModels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkModels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkPresentation.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkPresentation.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkPresentation.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkPumpStatusView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkPumpStatusView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkPumpStatusView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkTherapyImporter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkTherapyImporter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkTherapyImporter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkTherapyParser.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkTherapyParser.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkTherapyParser.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkTokenStore.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkTokenStore.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkTokenStore.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CareLink/CareLinkWebLogin.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkWebLogin.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkWebLogin.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartScrollCoordinator.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartScrollCoordinator.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartScrollCoordinator.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartStateManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartStateManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartStateManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Charts/GlucoseChartType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/ContactImage/ContactImageManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ContactImageManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ContactImageManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/ContactImage/ContactImageRenderer.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ContactImageRenderer.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ContactImageRenderer.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/CoreData/CoreDataManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CoreDataManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CoreDataManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/DexcomShare/BgReading+DexcomShare.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+DexcomShare.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+DexcomShare.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/DexcomShare/DexcomShareFollowManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomShareFollowManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomShareFollowManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/DexcomShare/DexcomShareModels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomShareModels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomShareModels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/DexcomShare/DexcomShareUploadManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomShareUploadManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomShareUploadManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/DataFlowPolicy.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DataFlowPolicy.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DataFlowPolicy.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerBackgroundKeepAliveManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerBackgroundKeepAliveManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerBackgroundKeepAliveManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerBackgroundKeepAliveType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerBackgroundKeepAliveType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerBackgroundKeepAliveType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerBgReading.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerBgReading.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerBgReading.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerDataSourceType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerDataSourceType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerDataSourceType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerDelegate.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerDelegate.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerDelegate.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/FollowerSessionState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerSessionState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerSessionState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Followers/SelectedFollowerActions.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SelectedFollowerActions.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SelectedFollowerActions.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/HealthKit/HealthKitManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/HealthKitManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/HealthKitManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/LibreLinkUp/LibreLinkUpFollowManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreLinkUpFollowManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreLinkUpFollowManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/LibreLinkUp/LibreLinkUpModels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreLinkUpModels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreLinkUpModels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/LiveActivity/LiveActivityManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/LiveActivity/LiveActivityType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivityType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/BgReading+LoopShare.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+LoopShare.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+LoopShare.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/GlucoseData+LoopShare.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseData+LoopShare.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseData+LoopShare.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/LoopFollowManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoopFollowManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoopFollowManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/LoopManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoopManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoopManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Loop/LoopShareType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoopShareType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoopShareType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/MedtrumEasyView/MedtrumEasyViewFollowManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumEasyViewFollowManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumEasyViewFollowManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/MedtrumEasyView/MedtrumEasyViewModels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumEasyViewModels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumEasyViewModels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/BgReading+Nightscout.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+Nightscout.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReading+Nightscout.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/Calibration+Nightscout.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Calibration+Nightscout.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Calibration+Nightscout.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/Endpoint+Nightscout.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Endpoint+Nightscout.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Endpoint+Nightscout.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutDateFormatter.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDateFormatter.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDateFormatter.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutDeviceStatusModels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDeviceStatusModels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutDeviceStatusModels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutFollowManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutFollowManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutFollowManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutFollowType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutFollowType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutFollowType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutFollowerGapFillService.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutFollowerGapFillService.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutFollowerGapFillService.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutImportService.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutImportService.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutImportService.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutProfileModels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileModels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutProfileModels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Nightscout/NightscoutSyncManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutSyncManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutSyncManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/BgPostProcessingManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgPostProcessingManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgPostProcessingManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/BgSmoothingAlgorithmPlugin.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgSmoothingAlgorithmPlugin.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgSmoothingAlgorithmPlugin.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/ExponentialBgSmoothing.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ExponentialBgSmoothing.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ExponentialBgSmoothing.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/HampelSavitzkyGolayBgSmoothing.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/HampelSavitzkyGolayBgSmoothing.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/HampelSavitzkyGolayBgSmoothing.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/KalmanBgSmoothing.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/KalmanBgSmoothing.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/KalmanBgSmoothing.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/LoessBgSmoothing.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoessBgSmoothing.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoessBgSmoothing.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/SavitzkyGolayBgSmoothing.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SavitzkyGolayBgSmoothing.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SavitzkyGolayBgSmoothing.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/PostProcessing/Smoothing/SavitzkyGolaySmoothableArray.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SavitzkyGolaySmoothableArray.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SavitzkyGolaySmoothableArray.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/QuickActions/QuickActionsManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/QuickActionsManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/QuickActionsManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/SensorHealth/SensorHealthIssueManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorHealthIssueManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorHealthIssueManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/SensorHealth/SensorHealthModels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorHealthModels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorHealthModels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/SensorNoise/SensorNoiseCalculator.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseCalculator.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseCalculator.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/SensorNoise/SensorNoiseManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Speak/BGReadingSpeaker.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BGReadingSpeaker.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BGReadingSpeaker.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Statistics/GlucoseRangeDistribution.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseRangeDistribution.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseRangeDistribution.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Statistics/StatisticsManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/StatisticsManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/StatisticsManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Statistics/TimeInRangeType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TimeInRangeType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TimeInRangeType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Therapy/TherapyMetricsManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TherapyMetricsManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TherapyMetricsManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/TransmitterReadSuccess/TransmitterReadSuccessManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterReadSuccessManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterReadSuccessManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/TransmitterReadSuccess/TransmitterReadSuccessResult.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterReadSuccessResult.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterReadSuccessResult.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Watch/WatchManager.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/WatchManager.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/WatchManager.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Watch/WatchState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/WatchState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/WatchState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Managers/Widgets/WidgetSharedUserDefaultsModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/WidgetSharedUserDefaultsModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/WidgetSharedUserDefaultsModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/AIDStatusBanner.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AIDStatusBanner.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AIDStatusBanner.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/AIDStatusView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AIDStatusView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AIDStatusView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BgAdjustmentsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgAdjustmentsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgAdjustmentsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BgReadings/BgReadingsDetailView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReadingsDetailView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReadingsDetailView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BgReadings/BgReadingsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReadingsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BgReadingsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BatteryHistoryView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryHistoryView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BatteryHistoryView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralDetailState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralDetailState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralDetailState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralDetailView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralDetailView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralDetailView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralSettingsRow.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralSettingsRow.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralSettingsRow.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothPeripheralsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothPeripheralsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/BluetoothSignalStrengthView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothSignalStrengthView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BluetoothSignalStrengthView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/BluetoothPeripherals/TransmitterReadSuccessView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterReadSuccessView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TransmitterReadSuccessView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/GlucoseChart/GlucoseChartView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GlucoseChartView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Landscape/LandscapeChartView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LandscapeChartView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LandscapeChartView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Landscape/LandscapeLoopalyzerChart.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LandscapeLoopalyzerChart.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LandscapeLoopalyzerChart.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Landscape/LandscapeValueView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LandscapeValueView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LandscapeValueView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/AGPChartView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AGPChartView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AGPChartView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/GenerateReportView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GenerateReportView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GenerateReportView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/GenerateReportViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GenerateReportViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GenerateReportViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportAGPChartView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportAGPChartView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportAGPChartView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportClinicalPageView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportClinicalPageView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportClinicalPageView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportDailySummarySectionView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportDailySummarySectionView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportDailySummarySectionView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportFormatting.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportFormatting.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportFormatting.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportMetricGridView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportMetricGridView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportMetricGridView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportModels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportModels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportModels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportPDFGenerator.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportPDFGenerator.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportPDFGenerator.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportPreviewView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportPreviewView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportPreviewView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportTimeInRangeBarView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportTimeInRangeBarView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportTimeInRangeBarView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Reports/ReportUserDefaults.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportUserDefaults.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ReportUserDefaults.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeChartRange.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeChartRange.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeChartRange.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeChartViews.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeChartViews.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeChartViews.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeClockView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeClockView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeClockView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeFooterViews.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeFooterViews.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeFooterViews.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeGlucoseReadingView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeGlucoseReadingView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeGlucoseReadingView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeStatisticsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeStatisticsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeStatisticsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeStatusViews.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeStatusViews.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeStatusViews.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHome/RootHomeToolbarView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeToolbarView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeToolbarView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHomeState.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeState.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeState.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootHomeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootHomeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/RootTabView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootTabView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RootTabView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/CalibrationHistoryView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationHistoryView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationHistoryView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/CalibrationReadiness.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationReadiness.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationReadiness.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/CalibrationView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CalibrationView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/DexcomG6SensorLabel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG6SensorLabel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomG6SensorLabel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/SensorCodeScannerView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorCodeScannerView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorCodeScannerView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/SensorManagementView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorManagementView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorManagementView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/SensorNoiseHistoryView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseHistoryView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorNoiseHistoryView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Sensor/SensorStartView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorStartView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SensorStartView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/AlertTypesSettingsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertTypesSettingsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertTypesSettingsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/AlertsSettingsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertsSettingsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/AlertsSettingsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/DataDeletionView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DataDeletionView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DataDeletionView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/DataManagementView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DataManagementView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DataManagementView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/CareLinkFollowerSettings.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkFollowerSettings.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/CareLinkFollowerSettings.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/DexcomShareFollowerSettings.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomShareFollowerSettings.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DexcomShareFollowerSettings.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/FollowerConnectionPresentation.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerConnectionPresentation.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerConnectionPresentation.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/FollowerServiceStatusMonitor.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerServiceStatusMonitor.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerServiceStatusMonitor.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/FollowerSettingsScreenFactory.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerSettingsScreenFactory.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerSettingsScreenFactory.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/FollowerSettingsSupport.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerSettingsSupport.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/FollowerSettingsSupport.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/LibreLinkUpFollowerSettings.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreLinkUpFollowerSettings.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LibreLinkUpFollowerSettings.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/MedtrumEasyViewFollowerSettings.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumEasyViewFollowerSettings.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/MedtrumEasyViewFollowerSettings.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/NightscoutFollowerSettings.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutFollowerSettings.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutFollowerSettings.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Followers/SharedCalendarFollowerSettings.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SharedCalendarFollowerSettings.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SharedCalendarFollowerSettings.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/ImportDataView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ImportDataView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ImportDataView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/LiveActivitySettingsPreview.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivitySettingsPreview.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LiveActivitySettingsPreview.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/LoopDelayScheduleView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoopDelayScheduleView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/LoopDelayScheduleView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/ManageDataView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ManageDataView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ManageDataView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsSelectedRowAction.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsSelectedRowAction.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsSelectedRowAction.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewAlertSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewAlertSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewAlertSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewCalendarEventsSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewCalendarEventsSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewCalendarEventsSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewContactImageSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewContactImageSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewContactImageSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewDataSourceSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewDataSourceSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewDataSourceSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewDevelopmentSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewDevelopmentSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewDevelopmentSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewDexcomShareSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewDexcomShareSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewDexcomShareSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewHealthKitSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewHealthKitSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewHealthKitSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewHomeScreenSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewHomeScreenSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewHomeScreenSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewHousekeeperSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewHousekeeperSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewHousekeeperSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewInfoViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewInfoViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewInfoViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewM5StackBluetoothSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewM5StackBluetoothSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewM5StackBluetoothSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewM5StackGeneralSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewM5StackGeneralSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewM5StackGeneralSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewM5StackSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewM5StackSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewM5StackSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewModelProtocol.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewModelProtocol.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewModelProtocol.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewNightscoutSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewNightscoutSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewNightscoutSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewNotificationsSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewNotificationsSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewNotificationsSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewSpeakSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewSpeakSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewSpeakSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewStatisticsSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewStatisticsSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewStatisticsSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/Models/SettingsViewTraceSettingsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewTraceSettingsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsViewTraceSettingsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/NightscoutImportView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutImportView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/NightscoutImportView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/SettingsSharedUtilities.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsSharedUtilities.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsSharedUtilities.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/SettingsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SettingsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/TherapyMetricsSettingsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TherapyMetricsSettingsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TherapyMetricsSettingsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/TimeScheduleView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TimeScheduleView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TimeScheduleView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Settings/TroubleshootingLogView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TroubleshootingLogView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TroubleshootingLogView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/ShowHideItemsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ShowHideItemsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ShowHideItemsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/SnoozeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SnoozeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Statistics/StatisticsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/StatisticsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/StatisticsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Statistics/StatisticsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/StatisticsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/StatisticsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Treatments/TreatmentEditorView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEditorView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEditorView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Treatments/TreatmentEditorViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEditorViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentEditorViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Treatments/TreatmentsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/SwiftUIViews/Treatments/TreatmentsViewModel.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentsViewModel.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentsViewModel.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsAlertTypeSettings.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsAlertTypeSettings.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsAlertTypeSettings.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsAlerts.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsAlerts.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsAlerts.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsBgReadings.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsBgReadings.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsBgReadings.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsBluetoothPeripheralView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsBluetoothPeripheralView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsBluetoothPeripheralView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsBluetoothPeripheralsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsBluetoothPeripheralsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsBluetoothPeripheralsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsCalibration.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsCalibration.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsCalibration.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsCommon.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsCommon.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsCommon.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsDexcomShareTestResult.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsDexcomShareTestResult.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsDexcomShareTestResult.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsErrorMessages.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsErrorMessages.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsErrorMessages.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsHomeView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsHomeView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsHomeView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsLibreErrors.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsLibreErrors.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsLibreErrors.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsLibreNFC.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsLibreNFC.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsLibreNFC.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsLibreStates.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsLibreStates.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsLibreStates.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsM5StackView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsM5StackView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsM5StackView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsNightscout.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsNightscout.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsNightscout.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsQuickActions.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsQuickActions.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsQuickActions.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSettingsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsSettingsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsSettingsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSnooze.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsSnooze.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsSnooze.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsSpeakReading.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsSpeakReading.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsSpeakReading.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Texts/TextsTreatmentsView.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsTreatmentsView.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TextsTreatmentsView.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Treatments/DateOnly.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DateOnly.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DateOnly.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Treatments/TreatmentCollection.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentCollection.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentCollection.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Treatments/TreatmentNSResponse.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentNSResponse.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TreatmentNSResponse.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Backup/BackupCrypto.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BackupCrypto.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BackupCrypto.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Backup/BackupModels.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BackupModels.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BackupModels.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Backup/BackupService.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BackupService.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/BackupService.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Errors/XdripError.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/XdripError.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/XdripError.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/HouseKeeping/DataManagementService.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DataManagementService.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/DataManagementService.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/HouseKeeping/HouseKeeper.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/HouseKeeper.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/HouseKeeper.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/KeyValueObserverTimeKeeper.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/KeyValueObserverTimeKeeper.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/KeyValueObserverTimeKeeper.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Network/Endpoint.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Endpoint.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Endpoint.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/OnlineHelp.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OnlineHelp.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/OnlineHelp.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/RepeatingTimer.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RepeatingTimer.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/RepeatingTimer.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/ScreenLockDimmingType.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ScreenLockDimmingType.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/ScreenLockDimmingType.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/SoundPlayer/SoundPlayer.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SoundPlayer.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/SoundPlayer.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/Trace.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Trace.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/Trace.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/TroubleshootingLog.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TroubleshootingLog.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/TroubleshootingLog.o"
+  },
+  "/Users/robertweir/Dev/xdripswift/xDrip/Utilities/UniqueId.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UniqueId.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/UniqueId.o"
+  },
+  "/xdrip.build/Release-iphonesimulator/xdrip.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "llvm-bc" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/xdrip.build/Release-iphonesimulator/xdrip.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
